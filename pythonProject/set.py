@@ -1,0 +1,16 @@
+a={2,4,6,7,8}
+print(a)
+b=[3,4,5]
+c=set(b)
+print(c)
+c.add(8)
+print(c)
+c.remove(4)
+print(c)
+print(10 in c)
+print(3 not in c)
+print(a)
+print(c)
+print(a | c)
+print(a & c)
+print(a - c)

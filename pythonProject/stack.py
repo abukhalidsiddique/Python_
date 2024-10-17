@@ -1,0 +1,10 @@
+a=[]
+a.append(3)
+a.append(6)
+a.append("sfsd")
+a.append("hweg34")
+print(a)
+a.pop()
+print(a)
+a.remove(3)
+print(a)
